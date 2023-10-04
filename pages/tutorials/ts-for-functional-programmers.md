@@ -186,7 +186,7 @@ let two: Two = x;
 two = new Three();
 ```
 
-## 유니언 (Unions)
+## 유니언 (Union)
 
 TypeScript에서 유니언 타입은 태그되지 않습니다. 다르게 말하면,
 Haskell에서 `data` 와 달리 유니언은 구별하지 않습니다.
